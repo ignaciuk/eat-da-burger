@@ -1,0 +1,40 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 4em !important;
+  color: rgb(199, 0, 0);
+  opacity: 1 !important;
+}
+
+h2, ul, li {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron {
+  background-image: url("../image/Checkerboard_Pattern_8x6 (2).svg") !important;
+  background-size: 25%;
+  background-color: rgba(99, 99, 99, 0.5);
+}
+
+.card {
+  background-color: yellow !important;
+}
