@@ -1,7 +1,7 @@
 var express = require("express");
 var methodOverride = require('method-override');
 
-var PORT = process.env.PORT || 8086;
+var PORT = process.env.PORT || 3000;
 
 var app = express();
 
